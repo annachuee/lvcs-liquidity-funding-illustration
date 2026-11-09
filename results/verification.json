@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "scope": "Original approved cases only; no new scenarios",
+  "gross_proceeds": 228.82285019154784,
+  "fund_net_irr": 0.1000000000000002,
+  "total_calls": 100.0,
+  "minimum_starting_budget": 114.65444488315346,
+  "half_commitment_survives": true,
+  "same_return_observations_reordered": true,
+  "publication_evidence": "Hypothetical original LVCS calculations; not institutional default frequencies"
+}

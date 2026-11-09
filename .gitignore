@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.log
+.codex/
+review/
+# Photographs and carousel artwork are excluded by the owner's release decision.
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.pdf
+*.pptx
+*.zip

@@ -1,0 +1,9 @@
+# Licensing scope
+
+Copyright (c) 2026 annachuee.
+
+- The Python source in `code/` is licensed under the MIT License: see LICENSE-CODE.
+- Original project text, publication captions, constructed input data, expected outputs, generated results and source-verification metadata are licensed under Creative Commons Attribution4.0 International: see LICENSE-CONTENT.
+- Attribute the original project to annachuee, “Why Terminal Returns Can Hide Liquidity Failure”, prepared for Leeds Venture Capital Society (LVCS),2026, with a link to this repository. Identify changes when reusing content.
+- Academic papers and institutional reports are cited/linked, not redistributed or relicensed. Their copyrights remain with their respective rights holders.
+- No trademark rights, university endorsement or right to use LVCS branding are granted by these licences. Photographs and carousel artwork are excluded from this repository and these grants.

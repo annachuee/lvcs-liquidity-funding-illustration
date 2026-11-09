@@ -1,0 +1,2 @@
+path,variant,commitment_fraction,policy,feasible,first_failure_year,max_observed_shortfall,min_pre_call_headroom,min_post_call_reserve,max_reserve_target_gap,initial_reserve,terminal_wealth,public_policy_wealth,wealth_difference
+early40_t2,base,0.5,public,True,,0.0,38.69759367933555,0.0,0,0.0,300.54596236146625,293.7193624257661,6.826599935700131
